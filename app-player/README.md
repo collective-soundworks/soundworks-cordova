@@ -51,7 +51,7 @@ The command below are to be exectuted in a terminal open in this directory. Do n
 ### Beacon service
 
 ```sh
-cordova plugin add https://github.com/petermetz/cordova-plugin-ibeacon.git
+cordova plugin add https://github.com/petermetz/cordova-plugin-ibeacon.git#3.3.0
 ```
 
 
