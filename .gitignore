@@ -1,8 +1,8 @@
 # Transpiled files and dependencies
 /node_modules
-/server
-/client
-/shared
+# /server
+# /client
+# /shared
 
 # ignore junk files
 npm-debug.log
